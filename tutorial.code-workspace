@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings":	{
+		"codeQL.codespacesTemplate": true,
+		"codeQL.githubDatabase.download": "never",
+	}	
+}
